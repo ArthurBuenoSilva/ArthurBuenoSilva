@@ -9,7 +9,7 @@
 - 👨‍💻 Técnico em Informática - IF Sul de Minas
 - 💻 Graduando em Engenharia de Computação - INATEL <br>
 - 📚 Além da graduação estou aprendendo Desenvolvimento Mobile(IOS) e aprimorando meu Inglês <br>
-- ⚡ Um fato curioso é que eu não gosto de café, sou a vergonha da profissão 😄 <br>
+- ⚡ Um fato curioso é que apesar de ser um Dev não gosto de café 😄 <br>
 - 📫 Como me encontrar: <br>
 
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
