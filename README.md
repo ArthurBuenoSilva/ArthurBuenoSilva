@@ -1,7 +1,7 @@
 <h1 align='center'> Hey there, I'm Arthur! </h1>
 
 <p align='center'>
- Um Desenvolvedor entusiasta de Minas Gerais, Brasil
+ Um Desenvolvedor de Minas Gerais, Brasil
 <p>
  
 <br>
