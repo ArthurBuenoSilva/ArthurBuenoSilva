@@ -8,7 +8,7 @@
 
 - 👨‍💻 Técnico em Informática - IF Sul de Minas
 - 💻 Graduando em Engenharia de Computação - INATEL <br>
-- 📚 Além da graduação estou aprendendo Desenvolvimento Mobile(IOS) e aprimorando meu Inglês <br>
+- 📚 Além da graduação estou estagiando na Huawei como especialista em sistemas e aprimorando meu Inglês <br>
 - ⚡ Um fato curioso é que apesar de ser um Dev não gosto de café 😄 <br>
 - 📫 Como me encontrar: <br>
 
