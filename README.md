@@ -8,7 +8,7 @@
 
 - 👨‍💻 Técnico em Informática - IF Sul de Minas
 - 💻 Graduando em Engenharia de Computação - INATEL <br>
-- 📚 Além da graduação estou estagiando no Inatel como desenvolvedor de software e aprimorando meu Inglês <br>
+- 📚 Além da graduação atuo como líder técnico no CIDC-BRSC Inatel <br>
 - 📫 Como me encontrar: <br>
 
   <a href="https://www.linkedin.com/in/arthur-bueno/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
